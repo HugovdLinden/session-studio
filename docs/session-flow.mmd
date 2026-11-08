@@ -1,0 +1,27 @@
+%% Session Studio — actual implemented policy. Landscape SVG/draw.io use local return-to-review connectors to avoid crossing loops.
+flowchart LR
+  intake["1 SESSION INTAKE<br/>Name, context, phase, goal, time, participants, experience, demo<br/>Goal/phase advisory: change or continue anyway"] --> generate["2 MAKE PLAN<br/>Validate and match ready methods to phase / goal / group / level<br/>Add organisation steps; infeasible = error, preserve current state"]
+  generate --> review["3 REVIEW AGENDA<br/>Stacked methods + elapsed rail<br/>Expand methods and nested steps<br/>Device-local draft restoration"]
+  review --> approve["4 CONFIRM PLANNING<br/>Deep-copy snapshot<br/>Accepted warnings plus remaining time/group constraints"]
+  approve --> handoff["5 APPROVED HANDOFF<br/>Read-only timings; details expandable<br/>Markdown download; return clears approval<br/>Live running screen / Session Chief pending"]
+  subgraph intakeLane["INTAKE CHANGES — from agenda review"]
+    direction TB
+    ie["Left panel: draft intake edits<br/>Close / Escape leaves current plan unchanged<br/>Goal/phase advisory allows continue"] --> ir["Confirm regenerates from changed intake<br/>Success replaces plan → review<br/>Failure keeps plan + error"]
+  end
+  subgraph timeLane["TIMING CHANGES — from agenda review"]
+    direction TB
+    te["Manual method or step timing<br/>Minimum ceil(60% catalogue default)<br/>At least 1 min per step; organisation ≥ 1 min<br/>Method edit redistributes steps; step edit updates total<br/>Invalid edit leaves activity unchanged"] --> tr["Only edited activity changes → review<br/>Recalculate elapsed time + total<br/>Over budget = total warning only<br/>No regeneration / replacement dialog"]
+  end
+  subgraph methodLane["METHOD CHANGES — from agenda review"]
+    direction TB
+    choices["Right panel alternatives<br/>Novice: up to 3 eligible easy same-category budget-fitting choices<br/>Bachelor: up to 3 recommendations + remaining same-category records<br/>Master: full other-method library, no recommendations<br/>All details expandable; ready methods have nested steps"] --> replace["Ready only: Replace button or drag to selected target<br/>Target adopts catalogue default; other activities unchanged<br/>Close without choosing keeps plan"]
+    replace --> warning["Participant mismatch or total over budget?<br/>Bachelor / Master warning after replacement is applied<br/>No warning / eligible Novice choice → review"]
+    warning --> dismiss["Dismiss<br/>Keep replacement; record warning → review"]
+    warning --> rebuild["Rebuild pins selected method<br/>Participants fixed; budget may grow<br/>Success new plan → review<br/>Infeasible = error; edited plan retained"]
+  end
+  catalogue["METHOD LIBRARY / SOURCE READINESS<br/>Verified procedure + ≥ 1 step + default minutes + min participants + difficulty<br/>Blank maximum = unlimited; incomplete visible but unavailable<br/>Durable metadata affects future plans, not current durations<br/>Title-only needs recovered procedure; demo estimates separate"]
+
+
+  review --> blocks["BLOCK EDITS: swap session steps; remove + Undo; plus slot inserts method or step
+Button or drag-and-drop; other blocks unchanged; empty draft cannot be approved"]
+  blocks --> review

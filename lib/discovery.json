@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "index-delft-contextmapping",
+    "name": "Contextmapping",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-thing-ethnography",
+    "name": "Thing Ethnography",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-cultural-probes",
+    "name": "Cultural Probes",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-user-observations",
+    "name": "User Observations",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-interviews",
+    "name": "Interviews",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-questionnaires",
+    "name": "Questionnaires",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-focus-groups",
+    "name": "Focus Groups",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-ecodesign-strategy-wheel",
+    "name": "Ecodesign Strategy Wheel",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-ecodesign-checklist",
+    "name": "Ecodesign Checklist",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-fast-track-life-cycle-analysis",
+    "name": "Fast Track Life Cycle Analysis",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-swot-search-areas",
+    "name": "SWOT & Search Areas",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-trend-foresight",
+    "name": "Trend Foresight",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-brand-dna",
+    "name": "Brand DNA",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-wwwh",
+    "name": "WWWH",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-design-drawing-to-discover",
+    "name": "Design Drawing to Discover",
+    "category": "unclassified",
+    "phase": [
+      "discover"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-persona",
+    "name": "Persona",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-cultura",
+    "name": "Cultura",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-problem-definition",
+    "name": "Problem Definition",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-function-analysis",
+    "name": "Function Analysis",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-product-life-cycle",
+    "name": "Product Life Cycle",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-list-of-requirements",
+    "name": "List of Requirements",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-mind-mapping",
+    "name": "Mind Mapping",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-journey-mapping",
+    "name": "Journey Mapping",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-product-journey-mapping",
+    "name": "Product Journey Mapping",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-project-value-modelling",
+    "name": "Project Value Modelling",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-business-modelling",
+    "name": "Business Modelling",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-sustainable-business-modelling",
+    "name": "Sustainable Business Modelling",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-future-visioning",
+    "name": "Future Visioning",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-ansoff-growth-matrix",
+    "name": "Ansoff Growth Matrix",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-segmentation-targeting-positioning",
+    "name": "Segmentation-Targeting-Positioning",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-vrio-analysis",
+    "name": "VRIO Analysis",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-porter-s-five-forces",
+    "name": "Porter's Five Forces",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-perceptual-map",
+    "name": "Perceptual Map",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-collage",
+    "name": "Collage",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-storyboarding",
+    "name": "Storyboarding",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-written-scenario",
+    "name": "Written Scenario",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-design-drawing-to-define",
+    "name": "Design Drawing to Define",
+    "category": "unclassified",
+    "phase": [
+      "define"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-analogies-metaphors",
+    "name": "Analogies & Metaphors",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-biomimicry",
+    "name": "Biomimicry",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-synectics",
+    "name": "Synectics",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-brainstorming-brainwriting",
+    "name": "Brainstorming & Brainwriting",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-braindrawing",
+    "name": "Braindrawing",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-morphological-chart",
+    "name": "Morphological Chart",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-scamper",
+    "name": "SCAMPER",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-how-tos",
+    "name": "How-Tos",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-harris-profile",
+    "name": "Harris Profile",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-evr-decision-matrix",
+    "name": "EVR Decision Matrix",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-c-box",
+    "name": "C-Box",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-value-ir-pmi",
+    "name": "vALUe, IR & PMI",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-datum-method",
+    "name": "Datum Method",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-weighted-objectives",
+    "name": "Weighted Objectives",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-storytelling",
+    "name": "Storytelling",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-usage-analytics",
+    "name": "Usage Analytics",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-comfort-evaluation",
+    "name": "Comfort Evaluation",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-premo-photo-elicitation",
+    "name": "PrEmo & Photo-Elicitation",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-role-playing",
+    "name": "Role-Playing",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-product-usability-evaluation",
+    "name": "Product Usability Evaluation",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-product-concept-evaluation",
+    "name": "Product Concept Evaluation",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-cost-price-estimation",
+    "name": "Cost Price Estimation",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-prototype-reflection-cards",
+    "name": "Prototype Reflection Cards",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-cinematic-prototyping",
+    "name": "Cinematic Prototyping",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-design-drawing-to-develop",
+    "name": "Design Drawing to Develop",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-experience-prototyping",
+    "name": "Experience Prototyping",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-wizard-of-oz",
+    "name": "Wizard of Oz",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-design-drawing-to-deliver",
+    "name": "Design Drawing to Deliver",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-3d-physical-models",
+    "name": "3D Physical Models",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-delft-technical-documentation",
+    "name": "Technical Documentation",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Delft Design Guide \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-brainstorming-traditional",
+    "name": "Brainstorming (traditional)",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-brainwriting-with-post-its",
+    "name": "Brainwriting with Post-its",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-brainwriting-6-3-5",
+    "name": "Brainwriting 6.3.5",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-creative-confrontation-excursion-forced-fit",
+    "name": "Creative Confrontation (excursion & forced fit)",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-1-criminal-round",
+    "name": "Excursion 1: Criminal Round",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-2-take-a-walk",
+    "name": "Excursion 2: Take a Walk",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-3-hidden-presumptions",
+    "name": "Excursion 3: Hidden Presumptions",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-4-absurd-questioning",
+    "name": "Excursion 4: Absurd Questioning",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-5-random-words",
+    "name": "Excursion 5: Random Words",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-6-random-objects",
+    "name": "Excursion 6: Random Objects",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-7-visual-stimulation",
+    "name": "Excursion 7: Visual Stimulation",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-8-guided-fantasy",
+    "name": "Excursion 8: Guided Fantasy",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-9-personal-analogy",
+    "name": "Excursion 9: Personal Analogy",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-10-direct-analogy-or-metaphor",
+    "name": "Excursion 10: Direct Analogy or Metaphor",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-excursion-11-symbolic-and-fantasy-analogy",
+    "name": "Excursion 11: Symbolic and Fantasy Analogy",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-flower-association",
+    "name": "Flower Association",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-how-to-s-or-h2-s",
+    "name": "How To's or H2's",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-interactive-brainsketching",
+    "name": "Interactive Brainsketching",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-ladder-of-abstraction",
+    "name": "Ladder of Abstraction",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-making-a-collage",
+    "name": "Making a Collage",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-matec",
+    "name": "MATEC",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-mind-mapping-in-a-group-session",
+    "name": "Mind Mapping in a Group Session",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-morphological-synthesis",
+    "name": "Morphological Synthesis",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-picture-the-problem",
+    "name": "Picture the Problem",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-scamper",
+    "name": "SCAMPER",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-40-inventive-principles-of-triz",
+    "name": "40 Inventive Principles of TRIZ",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-5w1h",
+    "name": "5W1H",
+    "category": "diverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-idea-gallery",
+    "name": "Idea Gallery",
+    "category": "reverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-elevator-pitch",
+    "name": "Elevator Pitch",
+    "category": "reverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-spontaneous-clustering",
+    "name": "Spontaneous Clustering",
+    "category": "reverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-sequencing",
+    "name": "Sequencing",
+    "category": "reverging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-restating-the-problem",
+    "name": "Restating the Problem",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-hits-or-dots",
+    "name": "Hits or Dots",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-paired-comparison",
+    "name": "Paired Comparison",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-criteria-ranking",
+    "name": "Criteria & Ranking",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-ualo",
+    "name": "UALo",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-making-a-poster",
+    "name": "Making a Poster",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-devil-s-and-angel-s-advocates",
+    "name": "Devil's and Angel's Advocates",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-force-field-analysis",
+    "name": "Force Field Analysis",
+    "category": "converging",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  },
+  {
+    "id": "index-roadmap-parking-lot",
+    "name": "Parking Lot",
+    "category": "unclassified",
+    "phase": [
+      "develop",
+      "deliver",
+      "iterate"
+    ],
+    "source": "Road Map for Creative Problem Solving Techniques \u00b7 discovery index only"
+  }
+]

@@ -1,0 +1,10 @@
+import { mkdirSync,writeFileSync,readFileSync } from 'node:fs';
+import { spawnSync } from 'node:child_process';
+import path from 'node:path';
+import './sites-env.mjs';
+const hosting=JSON.parse(readFileSync('.openai/hosting.json','utf8'));
+mkdirSync('.sites-runtime',{recursive:true});
+const config='.sites-runtime/local-database.json';
+writeFileSync(config,JSON.stringify({name:'session-studio-local',compatibility_date:'2026-05-15',d1_databases:[{binding:hosting.d1,database_name:'site-creator-d1',database_id:'00000000-0000-4000-8000-000000000000',migrations_dir:'../drizzle'}]}));
+const result=spawnSync(process.execPath,['node_modules/wrangler/bin/wrangler.js','d1','migrations','apply',hosting.d1,'--local','--config',config,'--persist-to',path.resolve(process.env.SITES_LOCAL_STATE||'.wrangler/state')],{stdio:'inherit'});
+process.exit(result.status??1);

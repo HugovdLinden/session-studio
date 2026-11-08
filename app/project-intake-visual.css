@@ -1,0 +1,20 @@
+.programme-intake .programme-phases .programme-diamond{position:relative;display:flex;width:100%;aspect-ratio:220 / 158;gap:0;align-items:stretch}
+.programme-intake .programme-phases .programme-diamond-outline{position:absolute;inset:0;display:block;width:100%;height:100%;overflow:visible;pointer-events:none}
+.programme-intake .programme-phases .diamond-fill{fill:#f3f5f9;transition:fill .16s ease}
+.programme-intake .programme-phases .diamond-fill.selected{fill:#e7edff}
+.programme-intake .programme-phases .diamond-outline{fill:none;stroke:#bfc9d8;stroke-width:2.2;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+.programme-intake .programme-phases .diamond-outline.selected{stroke:var(--accent)}
+.programme-intake .programme-phases .diamond-divider{stroke-linecap:round}
+.programme-intake .programme-phases .programme-diamond-half{position:relative;display:flex;align-items:center;justify-content:center;width:50%;min-width:0;max-width:none;height:auto;padding:0 5px;border:0;border-radius:8px;background:transparent;color:var(--muted)}
+.programme-intake .programme-phases .programme-diamond-half>span{position:static;display:block;inset:auto;margin:0;padding:0;text-align:center;font-size:.8125rem;line-height:1.3;font-weight:600;pointer-events:none}
+.programme-intake .programme-phases .programme-diamond-half small{display:block;font-size:.6875rem;font-weight:400;margin-top:5px}
+.programme-intake .programme-phases .programme-diamond-half.selected{color:var(--accent)}
+.programme-intake .programme-phases .programme-diamond-half:hover:not(:disabled){background:transparent;color:var(--accent)}
+.programme-intake .programme-phases .programme-diamond-half:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.programme-intake .programme-phases .programme-diamond-caption{font-size:.75rem;font-weight:400;margin-bottom:8px}
+.programme-intake-page .programme-intake .programme-phase-column{padding:0}
+.programme-intake-page .programme-phase-panel{padding:32px;background:#fff;border:1px solid var(--line);border-radius:14px}
+.programme-intake-page .programme-phase-panel .diamond-fill:not(.selected){fill:#fff}
+@media(max-width:1000px){.programme-intake-page .programme-phase-panel{padding:26px}}
+@media(max-width:540px){.programme-intake-page .programme-phase-panel{padding:22px 18px}}
+@media(prefers-reduced-motion:reduce){.programme-intake .programme-phases .diamond-fill{transition:none}}

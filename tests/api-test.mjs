@@ -1,0 +1,28 @@
+import assert from 'node:assert/strict';
+const base='http://127.0.0.1:5173';
+async function send(path,body,method='POST',headers={}){const response=await fetch(base+path,{method,headers:{'Content-Type':'application/json',...headers},body:JSON.stringify(body)});const text=await response.text();let data;try{data=JSON.parse(text);}catch{data={error:text};}return {status:response.status,data};}
+const intake={name:'API verification fixture',description:'',phase:'develop',goal:'fluency',minutes:90,participants:4,level:'bachelor'};
+const library=await (await fetch(base+'/api/catalogue')).json();
+let source=library.methods;
+assert.equal(library.knowledge.skill,'lead-creative-session-facilitator');
+assert.equal(library.knowledge.frameworks.filter(f=>f.kind==='approach').length,12);
+assert(library.knowledge.frameworks.some(f=>f.name==='Basic Design Cycle'&&f.status==='recovered'));
+assert(source.find(m=>m.id==='delft-how-tos').sourceRecord.core);
+assert(source.length>90);
+assert(!source.some(m=>m.name.startsWith("The preview's contents")));
+assert(source.some(m=>m.id==='index-roadmap-parking-lot'));
+const demo=await send('/api/plan',{intake,demo:true});assert.equal(demo.status,200);assert.equal(demo.data.chief,'sample-planner');assert(demo.data.plan.demo);
+const invalid=await send('/api/plan',{intake:{...intake,participants:0},demo:true});assert.equal(invalid.status,400);
+const cross=await send('/api/plan',{intake,demo:true},'POST',{Origin:'https://unrelated.example'});assert.equal(cross.status,403);
+const id='delft-how-tos';const record=source.find(m=>m.id===id);
+const ratings={defaultMinutes:30,minParticipants:1,maxParticipants:8,difficulty:'easy'};
+const saved=await send('/api/catalogue',{id,revision:record.revision,ratings},'PATCH');assert.equal(saved.status,200);
+const stale=await send('/api/catalogue',{id,revision:record.revision,ratings},'PATCH');assert.equal(stale.status,400);
+source=(await (await fetch(base+'/api/catalogue')).json()).methods;
+const updated=source.find(m=>m.id===id);assert.equal(updated.defaultMinutes,30);assert.equal(updated.revision,record.revision+1);assert.equal(updated.metadataOrigin,'user');
+const liveCatalogue=await send('/api/plan',{intake:{...intake,participants:1,level:'novice'},demo:false});assert.equal(liveCatalogue.status,200);assert(!liveCatalogue.data.plan.demo);assert(liveCatalogue.data.plan.activities.some(a=>a.methodId===id));
+const badRange=await send('/api/catalogue',{id,revision:updated.revision,ratings:{...ratings,minParticipants:9,maxParticipants:2}},'PATCH');assert.equal(badRange.status,400);
+const brain=source.find(m=>m.id==='delft-braindrawing');const sourceRange=await send('/api/catalogue',{id:brain.id,revision:brain.revision,ratings:{...ratings,minParticipants:1}},'PATCH');assert.equal(sourceRange.status,400);
+const pin=await send('/api/plan',{intake:{...intake,minutes:15},demo:true,pinnedMethodId:'delft-braindrawing'});assert.equal(pin.status,200);assert.equal(pin.data.plan.intake.participants,4);assert(pin.data.plan.intake.minutes>35);
+const infeasible=await send('/api/plan',{intake:{...intake,participants:1},demo:true,pinnedMethodId:'delft-braindrawing'});assert.equal(infeasible.status,400);
+console.log('API checks passed: source integrity, demo isolation, validation, origin checks, durable metadata, revision conflicts, real catalogue planning, known group range and pinned replanning.');

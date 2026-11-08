@@ -1,0 +1,34 @@
+.drawer .studio-picker-filters {
+  position: static;
+  margin: 0 0 20px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+}
+
+.studio-picker-filters > summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  cursor: pointer;
+  list-style: none;
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.studio-picker-filters > summary::-webkit-details-marker { display: none; }
+.studio-picker-filters > summary > svg { margin-left: auto; }
+.studio-picker-filters[open] > summary > svg { transform: rotate(180deg); }
+.studio-picker-filters > summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.studio-picker-filter-count { font-size: .75rem; font-weight: 400; color: var(--muted); }
+
+.drawer .studio-picker-filters .method-filters {
+  position: static;
+  top: auto;
+  z-index: auto;
+  padding: 0 14px 14px;
+  border: 0;
+  margin: 0;
+}
+.method-filter-actions{display:flex;align-items:center;gap:12px;margin-top:14px}.method-filter-actions .text-button{margin-top:0!important}.studio-picker-filters .method-filters .programme-helper{margin:10px 0 0;font-size:.75rem}

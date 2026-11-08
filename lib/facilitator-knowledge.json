@@ -1,0 +1,464 @@
+{
+  "skill": "lead-creative-session-facilitator",
+  "sourceFiles": {
+    "catalogue.md": "8f7e8e54d33db70c3c8c2e8d48ace276488ebcdc62ae92f1ac4c9fa3830018ee",
+    "delft-activities.md": "63c44efb5284712bac945d099e52f16bb2d20eb8ae33be47b47b095124a9fef5",
+    "delft-models-and-drawing.md": "e57eac35a167c7553c6357d62d682022268a0b524b22899b6b8d20b049cd49af",
+    "sources.md": "44d7f52860ea5b3cc7b16ea16141f58d88e6808afe6344cd1966bc02226a5fd8",
+    "road-map-preview.md": "b268f62977e3d37d270c528970a4d6eb76ec8a888fc26f04f92f1cbb3262c8f4",
+    "activity-selection.md": "9b43ddf9a7aa8ee3fe88b8280cd50766430605688b32b7a7fd8674a70b64b6cf",
+    "timing-and-recovery.md": "b0136bf6a17c97d59edc58feb5a7d365a61057c573166d371410a1c7b0a1d82a"
+  },
+  "coverage": {
+    "delft": "Full scan and supplemental photographs available in the skill; only recovered records have verified content.",
+    "roadMap": "Partial 30-page preview. The 40 method names are discovery entries; their procedures are unavailable in the preview."
+  },
+  "methods": {
+    "How-Tos": {
+      "name": "How-Tos",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "How-Tos",
+      "fit": "framing a familiar challenge for idea generation; participants need knowledge of the problem and its stakeholders.",
+      "input": "short problem statement plus stakeholders and relevant product/service life phases.",
+      "core": "identify stakeholders and aspects; generate multiple action-oriented How-To questions; regroup questions to understand common themes; choose questions spanning perspectives; generate ideas against each chosen question.",
+      "output": "a set of useful question frames and ideas linked to them.",
+      "consideration": "move between concrete and abstract framing when ideas stall; do not let selection of frames erase stakeholder diversity.",
+      "planningEstimate": "allocate time for question generation and selection before the subsequent idea generation. Avoid presenting the complete process as a quick prompt rewrite.",
+      "sourceGroup": "",
+      "sourceScope": "",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 How-Tos \u00b7 verified record: Core"
+    },
+    "Braindrawing": {
+      "name": "Braindrawing",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "Braindrawing",
+      "fit": "making ideas visible and developing each other's concepts; typically produces fewer, richer ideas than brainwriting.",
+      "input": "a clear concrete target or initial ideas.",
+      "core": "clarify the challenge and divergent rules; each person sketches; pass sheets after a few minutes so others add or create variants; repeat; explain/title the sketches for shared understanding; select promising ideas using criteria.",
+      "output": "developed sketches ready for selection or further design.",
+      "consideration": "reassure hesitant drawers; quality of the drawing is secondary to the communicated idea.",
+      "planningEstimate": "budget each pass, subsequent explanation, and selection. A remote shared-board version is an adaptation and needs explicit turn-taking.",
+      "sourceGroup": "4\u20138 people, A3 sheets, legible dark markers.",
+      "sourceScope": "",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 Braindrawing \u00b7 verified record: Core"
+    },
+    "Morphological Chart": {
+      "name": "Morphological Chart",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "Morphological Chart",
+      "fit": "systematically combining solutions where a clear main function can be divided into sub-functions; requires analytical framing.",
+      "input": "main function, sub-functions, and design requirements.",
+      "core": "list sub-functions as rows; generate candidate solutions per row; form combinations taking one solution from each row; assess against requirements; choose at least three principal solutions; sketch and elaborate selected combinations.",
+      "output": "alternative complete solution concepts assembled from component choices.",
+      "consideration": "combinations grow rapidly; reduce and group options before combining. For services with no clear main function, choose a less systematic method.",
+      "planningEstimate": "prepare or validate the functional decomposition before expecting participants to produce coherent combinations.",
+      "sourceGroup": "",
+      "sourceScope": "",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 Morphological Chart \u00b7 verified record: Core"
+    },
+    "SCAMPER": {
+      "name": "SCAMPER",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "SCAMPER",
+      "fit": "extending or changing existing ideas when initial generation slows.",
+      "input": "an existing idea, concept, or product.",
+      "core": "explore substitution, combination, adaptation, modification, alternative use, elimination, and reversal; capture variations; regroup for understanding; select promising directions for development.",
+      "output": "new variants or stepping stones from existing concepts.",
+      "consideration": "delay criticism of unusual ideas. The source cautions that inexperienced designers may need support.",
+      "planningEstimate": "demonstrate one prompt and explain that different prompts will yield different amounts of useful material. Selecting only some prompts is an adaptation.",
+      "sourceGroup": "",
+      "sourceScope": "",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 SCAMPER \u00b7 verified record: Core"
+    },
+    "C-Box": {
+      "name": "C-Box",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "C-Box",
+      "fit": "understanding and evaluating a large early idea set without automatically discarding novelty.",
+      "input": "roughly 10\u201360 ideas on movable notes, according to the source.",
+      "core": "define novelty and feasibility axes; review and place ideas together; reflect on gaps; either develop difficult ideas toward feasibility, generate ideas in gaps, or select promising ideas.",
+      "output": "a shared map and a direction for development or selection.",
+      "consideration": "proximity on the map does not establish similarity; interesting but difficult ideas may deserve development.",
+      "planningEstimate": "clarify how feasibility will be judged. Mapping, discussion, and selection are separate time demands. Other axes are an explicitly named adaptation.",
+      "sourceGroup": "",
+      "sourceScope": "",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 C-Box \u00b7 verified record: Core"
+    },
+    "Harris Profile": {
+      "name": "Harris Profile",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "Harris Profile",
+      "fit": "making concept evaluations explicit and discussable when requirements exist but precise performance data may not.",
+      "input": "comparable concepts and prioritized requirements.",
+      "core": "create a four-position scale for each requirement; evaluate each concept; fill a visual profile; present profiles together and discuss implications.",
+      "output": "comparable visual profiles and a reasoned discussion about concepts to explore.",
+      "consideration": "define scale meanings per criterion. This is an intuitive visual assessment, not a precise calculation; requirements can evolve during discussion.",
+      "planningEstimate": "reserve time to agree scale meanings before scoring.",
+      "sourceGroup": "",
+      "sourceScope": "",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 Harris Profile \u00b7 verified record: Core"
+    },
+    "Datum Method": {
+      "name": "Datum Method",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "Datum Method",
+      "fit": "comparing concepts developed to a similar level against explicit criteria.",
+      "input": "comparable proposals, criteria, and a chosen reference concept.",
+      "core": "build a matrix; choose a datum; compare each alternative as worse, same, or better on each criterion; discuss results; use another strong datum and iterate toward a reasoned choice; drop weak designs when appropriate.",
+      "output": "comparisons, clarified strengths/weaknesses, and a selection for development.",
+      "consideration": "the method aids decisions rather than mathematically proving them. Vague criteria can obscure meaningful differences.",
+      "planningEstimate": "budget a bounded number of comparison rounds and protect discussion; do not promise automatic consensus.",
+      "sourceGroup": "",
+      "sourceScope": "",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 Datum Method \u00b7 verified record: Core"
+    },
+    "Weighted Objectives": {
+      "name": "Weighted Objectives",
+      "book": "Delft Design Guide",
+      "section": "Methods: Develop & Deliver",
+      "heading": "Weighted Objectives",
+      "fit": "selecting among a few developed alternatives with enough information for systematic evaluation.",
+      "input": "",
+      "core": "agree criteria and weights; build a matrix; score concepts against criteria; calculate weighted totals; discuss the preferred concept and review weights/scores.",
+      "output": "an explicit weighted comparison supporting a decision.",
+      "consideration": "small numerical differences may not be meaningful; a lower-scoring concept can retain greater development potential.",
+      "planningEstimate": "agree scoring anchors and reserve discussion for close results. Calculate weighted sums consistently rather than treating rankings as objective proof.",
+      "sourceGroup": "",
+      "sourceScope": "select 3\u20135 concepts for evaluation.",
+      "citation": "Delft Design Guide \u00b7 Methods: Develop & Deliver \u00b7 Weighted Objectives \u00b7 verified record: Core"
+    }
+  },
+  "frameworks": [
+    {
+      "id": "delft-reasoning-in-design",
+      "name": "Reasoning in design",
+      "kind": "model",
+      "source": "Delft Design Guide \u00b7 Planning models \u00b7 Reasoning in design",
+      "status": "recovered",
+      "notes": [
+        "Source category: Model of design reasoning, not a session timetable.",
+        "Fit: structuring insights, generating questions, communicating reasoning, and reflecting on how a proposed form addresses needs and values. Primarily product-oriented but applicable to services.",
+        "Source How headings: Form; Properties; Function; Needs and Values. These are components, not numbered stages.",
+        "Analysis: reason from form, properties, and usage context toward predicted functioning and consequences.",
+        "Synthesis: reason from user values and needs toward functions, properties, and a suitable form. The diagram identifies these as deductive analysis and abductive synthesis.",
+        "Output: explicit relationships connecting proposed form and material, properties, functions, needs, and values, with mode and conditions of use considered.",
+        "Constraints: consider usage context as carefully as the product. Properties can have desirable and undesirable consequences; intended functions can differ from uses people discover. Intuition and creativity remain necessary.",
+        "Application (facilitator adaptation): a mapping exercise must cite the selected How components and the analysis/synthesis direction used. Its prompts, grouping, and time allocation are adaptations, not source-prescribed instructions."
+      ]
+    },
+    {
+      "id": "delft-basic-design-cycle",
+      "name": "Basic Design Cycle",
+      "kind": "model",
+      "source": "Delft Design Guide \u00b7 Planning models \u00b7 Basic Design Cycle",
+      "status": "recovered",
+      "notes": [
+        "Source category: Model of iterative reasoning. Its five reasoning steps are not five project phases and must not be presented as a one-pass project timeline.",
+        "Fit: examining whether a design process has skipped necessary reasoning; organizing thought, action, evaluation, and decisions at different levels of detail.",
+        "Source How headings and corresponding diagram outputs:",
+        "1. Analyse: examine the goal/problem and relevant aspects, informing criteria and requirements. Diagram output: Criteria.",
+        "2. Synthesis: generate possible solutions or elements of proposals. Diagram output: Provisional Design.",
+        "3. Simulate: create imagined, digital, or physical representations of proposals so their consequences can be considered. Diagram output: Expected Properties.",
+        "4. Evaluate: assess potential value through those representations against design criteria. Diagram output: Value of the Design.",
+        "5. Decide: judge relative value and choose whether to proceed, repeat, or focus on other elements. Diagram output: Approved Design, with iteration possible.",
+        "The numbered mapping above corresponds to the diagram; the text itself uses heading labels. Use the exact heading as the reference when documenting a borrowed reasoning step.",
+        "Constraints: a cycle may occur within seconds or over weeks. Entry can be at different points, but complete the reasoning cycle. Reflect and discuss missing steps rather than jumping directly to solutions.",
+        "Application (facilitator adaptation): use this model to check a proposed session sequence. A session may only advance part of a larger cycle; identify what was completed and what must happen after the session. Do not claim a short session produces an approved design simply because it includes Decide."
+      ]
+    },
+    {
+      "id": "delft-product-innovation-process",
+      "name": "Product Innovation Process",
+      "kind": "model",
+      "source": "Delft Design Guide \u00b7 Planning models \u00b7 Product Innovation Process",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-agile-design-development",
+      "name": "Agile Design & Development",
+      "kind": "model",
+      "source": "Delft Design Guide \u00b7 Planning models \u00b7 Agile Design & Development",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-integrated-creative-problem-solving",
+      "name": "Integrated Creative Problem Solving",
+      "kind": "model",
+      "source": "Delft Design Guide \u00b7 Planning models \u00b7 Integrated Creative Problem Solving",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-needs-and-aspirations-for-design-innovation",
+      "name": "Needs and Aspirations for Design & Innovation",
+      "kind": "model",
+      "source": "Delft Design Guide \u00b7 Planning models \u00b7 Needs and Aspirations for Design & Innovation",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-user-centred-design",
+      "name": "User-Centred Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 User-Centred Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-social-implication-design",
+      "name": "Social Implication Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Social Implication Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-co-design-co-creation",
+      "name": "Co-design & Co-creation",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Co-design & Co-creation",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-anthropometric-design",
+      "name": "Anthropometric Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Anthropometric Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-vision-in-product-design",
+      "name": "Vision in (Product) Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Vision in (Product) Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-context-variation-by-design",
+      "name": "Context Variation by Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Context Variation by Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-service-design",
+      "name": "Service Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Service Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-persuasive-game-design",
+      "name": "Persuasive Game Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Persuasive Game Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-lean-start-up",
+      "name": "Lean Start-up",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Lean Start-up",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-material-driven-design",
+      "name": "Material Driven Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Material Driven Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-data-centric-design",
+      "name": "Data-Centric Design",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Data-Centric Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-design-roadmapping",
+      "name": "Design Roadmapping",
+      "kind": "approach",
+      "source": "Delft Design Guide \u00b7 Approaches \u00b7 Design Roadmapping",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-design-for-health-wellbeing",
+      "name": "Design for Health & Wellbeing",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Design for Health & Wellbeing",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-design-for-sustainability",
+      "name": "Design for Sustainability",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Design for Sustainability",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-design-for-behavioural-change",
+      "name": "Design for Behavioural Change",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Design for Behavioural Change",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-design-for-emotion",
+      "name": "Design for Emotion",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Design for Emotion",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-design-for-the-majority",
+      "name": "Design for the Majority",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Design for the Majority",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-culture-sensitive-design",
+      "name": "Culture-Sensitive Design",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Culture-Sensitive Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-speculative-design",
+      "name": "Speculative Design",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Speculative Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-more-than-human-design",
+      "name": "More-Than-Human Design",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 More-Than-Human Design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-skilful-co-design",
+      "name": "Skilful Co-design",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Skilful Co-design",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-visualising-interactions",
+      "name": "Visualising Interactions",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Visualising Interactions",
+      "status": "indexed",
+      "notes": []
+    },
+    {
+      "id": "delft-design-drawing-as-a-language",
+      "name": "Design Drawing as a Language",
+      "kind": "perspective",
+      "source": "Delft Design Guide \u00b7 Perspectives \u00b7 Design Drawing as a Language",
+      "status": "recovered",
+      "notes": [
+        "Source category: Perspective, not a fixed numbered workshop exercise.",
+        "Fit: visual exploration and communication throughout designing; supports developing thoughts, exchanging ideas, and discussing proposals with others.",
+        "Source headings: What & Why; Mindset; How; Tips & Concerns; Limitations. The source gives no numbered procedure, fixed duration, or participant count.",
+        "Core guidance: use drawing to externalize observations and concepts; tailor the representation to purpose, audience, decision, information flow, and design stage. The How section relates drawing to Discover, Define, Develop, and Deliver and points to the stage-specific drawing methods elsewhere in the book.",
+        "Constraints: drawing takes practice. Begin with basic shapes and gradually increase complexity; choose clear composition, viewpoints, lines, and tonal values. Later work may require other formats, often preceded by sketches.",
+        "Application (facilitator adaptation): when drawing becomes an actual activity, select and read the relevant named stage-specific drawing method. Reference this perspective for the rationale and that method for its steps; do not invent numbered steps and attribute them to this perspective."
+      ]
+    }
+  ],
+  "guidance": [
+    {
+      "title": "Outcome first",
+      "source": "Lead creative-session facilitator \u00b7 activity-selection.md",
+      "notes": [
+        "Translate the creative challenge into a concrete end product: e.g. a clarified opportunity, a diverse set of concepts, developed concept sketches, or a shortlist with owners. Identify which stages are needed to reach it. A useful sequence may move through framing, divergence, development, and convergence, but do not force every stage into every session.",
+        "Compare candidates on purpose, prerequisites, usable output, participant experience, group size, available tools, inclusion, energy, and complete delivery time. Explain the decisive reasons for the selected activities. Mention a rejected alternative only when it helps the user understand a real tradeoff."
+      ],
+      "status": "facilitator-guidance"
+    },
+    {
+      "title": "Connect the sequence",
+      "source": "Lead creative-session facilitator \u00b7 activity-selection.md",
+      "notes": [
+        "For each stage, name the input and output and verify the next stage can consume it. Reserve time to consolidate raw ideas before selecting. Agree selection criteria before voting or evaluation. State who can decide and whether a vote is advisory or binding.",
+        "Adapt reporting to scale. Calculate serial sharing explicitly; use pairs, table representatives, a gallery, or written clustering when a full round would consume the session. Account for the synthesis work those alternatives still require.",
+        "Use quiet individual work when it improves participation before group discussion. Give accessible alternatives to movement, rapid drawing, or speaking on demand when relevant. Make remote instructions and capture locations explicit. Treat energy changes as design choices, not as reasons to add unrelated games."
+      ],
+      "status": "facilitator-guidance"
+    },
+    {
+      "title": "Feasibility",
+      "source": "Lead creative-session facilitator \u00b7 activity-selection.md",
+      "notes": [
+        "A candidate's quoted activity duration may exclude explanation, grouping, sharing, or debrief. Estimate its full footprint before selecting it. If an adaptation removes a central step or materially changes the intended result, name it as an adapted exercise rather than representing it as the original method.",
+        "Keep a fallback only for plausible friction: unclear prompt, low idea volume, disagreement, technology failure, or overrun. Specify the trigger and response. Fallbacks should preserve the objective while simplifying mechanics."
+      ],
+      "status": "facilitator-guidance"
+    },
+    {
+      "title": "Build the time budget",
+      "source": "Lead creative-session facilitator \u00b7 timing-and-recovery.md",
+      "notes": [
+        "Compute the available minutes from start and end, or the supplied total duration. Deduct fixed opening, breaks, closure, and contingency before allocating activity time. Include any lunch or required interruption. Ask for a timezone only when coordinating participants across locations or dates.",
+        "For each activity, budget explanation and demonstration, setup/grouping, individual work, group work, reporting, and synthesis/debrief. Internal components must sum to the activity row; do not count them twice. Give transitions separate rows for moving people, changing materials, opening boards, and carrying outputs forward.",
+        "Working estimates to adjust:",
+        "- A simple instruction: 2\u20134 minutes; unfamiliar multistep activity: 5\u20138 minutes including an example and understanding check.",
+        "- A simple transition: 2\u20133 minutes; movement, regrouping, or board changes: 4\u20137 minutes.",
+        "- Reporting: number of speakers \u00d7 speaking allowance, plus handoffs and synthesis. Eight tables at 2 minutes each require at least 16 minutes before handoffs or synthesis.",
+        "- For sustained sessions, normally provide a 10\u201315 minute break after roughly 60\u201390 minutes of demanding work. Adjust for accessibility, energy, format, and the user's constraints. A brief reset may suffice in a short session; do not add a long break mechanically.",
+        "- Reserve about 5\u201310% of the total window as explicit contingency, more when conditions are uncertain. If the window is very short, use a small stated buffer and fewer activities.",
+        "- Protect enough closing time to capture decisions, owners, and next steps; commonly 5\u201310 minutes, longer for complex commitments."
+      ],
+      "status": "facilitator-guidance"
+    },
+    {
+      "title": "Arithmetic check",
+      "source": "Lead creative-session facilitator \u00b7 timing-and-recovery.md",
+      "notes": [
+        "Use one time system consistently, preferably start/end clock times plus duration. Every row starts when the previous row ends. Sum durations and verify the final end matches the hard stop. Breaks, transitions, and buffer are part of the total. For each activity, also check its component budget. Report the total and whether all rows fit.",
+        "Use realistic numbers rather than implying that estimates guarantee completion. Name assumptions that affect timing, especially participant count, number of reports, and complexity of the task. A schedule needing more time than the window is infeasible even if its individual activities sound reasonable."
+      ],
+      "status": "facilitator-guidance"
+    },
+    {
+      "title": "Recovery during delivery",
+      "source": "Lead creative-session facilitator \u00b7 timing-and-recovery.md",
+      "notes": [
+        "At checkpoints, compare actual progress with the run sheet. Spend the stated buffer first when that is appropriate. Then shorten optional reporting, reduce the number of ideas developed, or remove a lower-priority activity. Keep essential synthesis, decisions, breaks, and closure where possible. State the lost scope or output and issue a revised remaining schedule.",
+        "Do not recover an overrun by accelerating unfamiliar instructions or assuming everyone will work faster. If the core deliverable no longer fits, offer an achievable reduced deliverable and identify what needs follow-up."
+      ],
+      "status": "facilitator-guidance"
+    }
+  ]
+}

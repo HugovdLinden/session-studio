@@ -1,0 +1,7 @@
+.welcome-experience .welcome-layout{max-width:780px;min-height:calc(100dvh - 180px);margin:0 auto;padding:0 32px;display:grid;place-items:center}
+.welcome-experience .welcome-content{width:100%;padding:40px 0}.welcome-experience .welcome-logo{margin-bottom:22px}.welcome-experience .welcome-logo .brand-mark{display:block;width:74px}
+.welcome-experience .welcome-content h1{font-size:3rem;letter-spacing:-.03em}.welcome-experience .welcome-content>p{font-size:1.125rem;color:var(--muted);max-width:68ch;margin-top:18px}.welcome-experience .welcome-content .home-facilitator{font-size:.875rem;max-width:76ch;margin-top:16px}.welcome-experience .welcome-proceed{margin-top:30px}
+.welcome-screen-motion.is-leaving{pointer-events:none;animation:studio-welcome-leave .26s cubic-bezier(.4,0,.2,1) forwards}.welcome-workspace-entry.is-entering{animation:studio-workspace-enter .36s cubic-bezier(.2,.8,.2,1) both}
+@keyframes studio-welcome-leave{to{opacity:0;transform:translateY(-14vh)}}@keyframes studio-workspace-enter{from{opacity:.2;transform:translateY(16vh)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:600px){.welcome-experience .welcome-layout{min-height:calc(100dvh - 150px);padding:0 20px;place-items:start}.welcome-experience .welcome-content{padding:28px 0}.welcome-experience .welcome-content h1{font-size:2.3rem}.welcome-experience .welcome-content>p{font-size:1rem}.welcome-experience .welcome-logo .brand-mark{width:60px}}
+@media(prefers-reduced-motion:reduce){.welcome-screen-motion.is-leaving,.welcome-workspace-entry.is-entering{animation:none}}

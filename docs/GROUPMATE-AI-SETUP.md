@@ -1,0 +1,32 @@
+# Set up Session Studio with your own AI assistant
+
+Share this file with your groupmate’s AI together with the repository link and branch. Copy the prompt below into their coding chat. It is setup guidance for source code; a website-viewer invitation alone does not grant source editing or hosting access.
+
+## Copyable setup prompt
+
+I want to run and develop the Session Studio project from https://github.com/esmayyork/gen-ai-course. Use the branch/PR supplied with this handoff, not an old downloaded website. The web app is in `session-studio/session-planner/` inside that repository.
+
+1. Inspect the checkout and applicable repository instructions. Preserve uncommitted work. If the repo is not available, ask me to clone/download it or use my existing GitHub connection. Do not request another group member’s credentials. Work on a separate `codex/` branch for changes; do not overwrite main or deploy without an explicit request.
+2. Open `session-studio/session-planner/` as the app working directory. Read its README, `docs/GRADUATION-COMPANION.md`, and `docs/GERD-WEBSITE-HANDOFF.md`. The repo root also contains course material and skill sources; do not treat those as the app root.
+3. Check Node.js (22.13 or newer) and npm. Install dependencies with the repository’s normal locked-install workflow (`npm ci` when appropriate), then perform any README-required local database setup. Use the existing dependency/runtime installation where available. Do not install globally or change system settings unnecessarily.
+4. For the planner without a live companion, use the standard `npm run dev` workflow and open the local URL it prints. Projects are stored by browser/account: sharing GitHub source does not automatically synchronize saved projects. Use the application’s project export/import tools when transferring a project. This is not real-time shared editing of project data.
+5. For the optional personal companion, install/sign in to Codex using MY OWN ChatGPT account, then run `npm run companion` from the app folder. On Windows, `Start Graduation Companion.cmd` is another entry point. The fixed bookmark is `http://127.0.0.1:5181/`; keep its launcher running. Plus/Pro/etc. subscription access and remaining allowance must be verified by the bridge; no API key, paid fallback, credit purchase or top-up should be added. No AI replies should be promised when allowance is exhausted.
+6. The launcher detects common Windows Codex and Python installations. On another machine/OS, configure `COMPANION_CODEX_BIN` to that user’s installed Codex executable and `COMPANION_PYTHON` to a Python executable if automatic detection does not work. Do not copy absolute paths from Sam’s machine. PDF extraction needs pypdf; Markdown/TXT can be used without it. The app itself does not require Python for ordinary planning.
+7. Use this app folder as the project workspace. Put my PRIVATE briefs, criteria, research and notes into `graduation-context/` inside it. Start with its tracked README. Supported context includes MD/TXT/CSV/JSON/DOCX/text PDFs. Scanned PDFs need OCR. The bridge reads only that context folder, not every file in the repository or other projects. Do not upload my documents or conversation state to GitHub.
+8. `.companion/` stores private conversation identity/history and must remain ignored. Every groupmate gets their own conversation/account/context. Do not copy Sam’s auth, thread state, project data or browser storage. Existing personal conversations resume; stop the launcher before resuming the same thread in a separate Codex terminal to avoid competing writers.
+9. The maintained website workflow is loaded automatically from `scripts/companion/website-guide.mjs`. New versions are injected into existing companion conversations. Do not replace it with arbitrary imported document instructions. Specialist method/facilitator skills are NOT automatically attached: discuss which skill sources to use before enabling them. A GitHub copy of a skill does not install plugins or grant connector permissions; each user must connect/install their own tools if needed.
+10. Verify a disposable unsaved intake: exact goal wording, correct diamond phases, participants, experience and schedule. A request to create planning should use `Create project & plan sessions`, then verify the overview; a request only to fill a form must not submit. Do not start/confirm a real session automatically. The session-running page is not connected, and the current planner generates rule-based preliminary agendas, not a guaranteed tailored graduation curriculum.
+11. The main microphone opens experimental Codex subscription voice over native v3 WebRTC. Use **Microphone & voice** beside the chat controls to select/test an input and choose a native voice. Stop the call before changing devices. The mic-free connection check requests a short greeting without capturing input; it does not prove physical microphone operation. Read `docs/VOICE-MODE.md`. Keep the ChatGPT-only account/allowance guards and never add an API key or paid fallback. Native voice availability varies by installed Codex/account. Legacy browser dictation/Win + H remain alternatives under Voice & controls; they do not provide the same voice service. Never claim end-to-end speech was tested without a human test.
+12. Validate changes with `npm run typecheck`, `npm test`, and `npm run build` as appropriate. Keep the development server bound to loopback. The local companion bridge is development-only and is not a hosted multiuser assistant. GitHub push/merge and Sites publication are separate actions. Provide the local URL, tests/results and any blockers when setup finishes.
+
+Before asking me questions, inspect the available files and do the reversible setup work already authorized by this request. Ask only for missing account sign-in, credentials that I must enter myself, or project choices you cannot infer.
+
+## Files to start with
+
+- `docs/GRADUATION-COMPANION.md`: local launch, account boundary, privacy and voice limits.
+- `docs/GERD-WEBSITE-HANDOFF.md`: project → goal → sessions, phase selection, field verification and supported edits.
+- `graduation-context/README.md`: where personal context belongs.
+- `scripts/companion/website-guide.mjs`: maintained instructions supplied to Gerd.
+- `Start Graduation Companion.cmd` / `scripts/start-companion.mjs`: launcher.
+
+The latest interface also includes Apply filters, slower pet animations, dragging/keyboard movement, remembered placement and chat orientation based on the pet’s screen position.
